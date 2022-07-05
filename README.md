@@ -1,2 +1,2 @@
 # CS102-Project
-2021Spring JavaA minsweeper project
+基于java swing的扫雷游戏，得分105/100
